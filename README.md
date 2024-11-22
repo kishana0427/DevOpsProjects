@@ -4,8 +4,6 @@
 
 ## DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 
-[![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url]
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/NotHarshhaa/DevOps-Projects?style=for-the-badge&logo=github&logoColor=white&color=orange
