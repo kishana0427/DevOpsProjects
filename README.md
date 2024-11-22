@@ -57,19 +57,5 @@ _*Welcome to the ultimate resource for **learning DevOps through hands-on projec
 > - **Skill Enhancement:** Whether you're just starting or looking to build on existing skills, the projects are structured to guide you through a learning path that will enhance your capabilities.
 > - **Industry Relevance:** Stay up-to-date with the latest trends and technologies in DevOps. The projects reflect current industry practices, ensuring that what you learn is relevant and applicable.
 > - **Community Engagement:** Join a community of like-minded learners and professionals. Share your projects, seek feedback, and collaborate on exciting DevOps initiatives.
-
-## Code of Conduct
-
-> [!CAUTION]
->
-> We are committed to fostering a welcoming and respectful environment for all contributors. Please take a moment to review our [Code of Conduct](./CODE_OF_CONDUCT.md) before participating in this community.
-
-## Contribute and Collaborate
-
-> [!TIP]
-> This repository thrives on community contributions and collaboration. Here’s how you can get involved:
->
-> - **Fork the Repository:** Create your own copy of the repository to work on.
-> - **Submit Pull Requests:** Contribute your projects or improvements to existing projects by submitting pull requests.
 > - **Engage with Others:** Participate in discussions, provide feedback on others’ projects, and collaborate to create better solutions.
 > - **Share Your Knowledge:** If you’ve developed a new project or learned something valuable, share it with the community. Your contributions can help others in their learning journey.
