@@ -73,19 +73,3 @@ _*Welcome to the ultimate resource for **learning DevOps through hands-on projec
 > - **Submit Pull Requests:** Contribute your projects or improvements to existing projects by submitting pull requests.
 > - **Engage with Others:** Participate in discussions, provide feedback on others’ projects, and collaborate to create better solutions.
 > - **Share Your Knowledge:** If you’ve developed a new project or learned something valuable, share it with the community. Your contributions can help others in their learning journey.
-
-## Join the Community
-
-> [!IMPORTANT]
-> We encourage you to be an active part of our community:
->
-> - **Join Our Telegram Community:** Connect with fellow DevOps enthusiasts, ask questions, and share your progress in our [Telegram group](https://t.me/prodevopsguy).
-> - **Follow Me on GitHub:** Stay updated with new projects and content by [following me on GitHub](https://github.com/NotHarshhaa).
-
-## Hit the Star! ⭐
-
-**If you find this repository helpful and plan to use it for learning, please give it a star. Your support is appreciated!**
-
-### Author
-
-![Author Image](https://imgur.com/f4rBnpK.gif)
